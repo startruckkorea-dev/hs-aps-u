@@ -1,0 +1,1 @@
+window.APS_GATE_CFG={key:"LTR-PC",name:"LTR-PC",admin:["LTR-PC"]};

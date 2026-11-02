@@ -1,0 +1,1 @@
+window.APS_GATE_CFG={key:"GA",name:"General Affairs",admin:["GA"]};

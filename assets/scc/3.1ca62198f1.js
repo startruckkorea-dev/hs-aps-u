@@ -1,0 +1,1 @@
+window.APS_GATE_CFG={key:"SCC",name:"STK Contract",admin:["SCC"]};

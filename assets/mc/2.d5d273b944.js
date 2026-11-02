@@ -1,0 +1,1 @@
+window.APS_GATE_CFG={key:"MC",name:"Mobility Car",admin:["MC"]};

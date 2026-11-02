@@ -1,0 +1,1 @@
+window.APS_GATE_CFG={key:"GW",name:"Goodwill",admin:["GW"]};

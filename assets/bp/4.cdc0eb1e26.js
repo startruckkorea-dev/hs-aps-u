@@ -1,0 +1,1 @@
+window.APS_GATE_CFG={key:"BP",name:"BP Master Data",admin:["BP"]};

@@ -1,0 +1,1 @@
+window.APS_GATE_CFG={key:"ACC-Voucher",name:"ACC Voucher",admin:["ACC-Voucher"]};

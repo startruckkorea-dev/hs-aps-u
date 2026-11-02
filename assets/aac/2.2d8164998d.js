@@ -1,0 +1,1 @@
+window.APS_GATE_CFG={key:"AAC",name:"Approval Delegation",admin:["AAC"]};

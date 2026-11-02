@@ -1,0 +1,1 @@
+window.APS_GATE_CFG={key:"ACC-OTHERS",name:"ACC Others",admin:["ACC-OTHERS"]};

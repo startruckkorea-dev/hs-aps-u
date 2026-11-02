@@ -1,0 +1,1 @@
+window.APS_GATE_CFG={key:"CTR_PR",name:"CTR PR",admin:["CTR_PR"]};

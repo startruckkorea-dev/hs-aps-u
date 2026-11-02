@@ -1,0 +1,1 @@
+window.APS_GATE_CFG={key:"APS",name:"APS 통합 결재함",admin:["APS"]};

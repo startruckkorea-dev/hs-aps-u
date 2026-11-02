@@ -1,0 +1,1 @@
+window.APS_GATE_CFG={key:"FA",name:"FA Registration",admin:["FA"]};

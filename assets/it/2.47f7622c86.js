@@ -1,0 +1,1 @@
+window.APS_GATE_CFG={key:"IT",name:"IT Ticket",admin:["IT"]};

@@ -1,0 +1,1 @@
+!function(){var e=new URLSearchParams(location.search).get("openId");try{if(e)sessionStorage.setItem("bp_openid",JSON.stringify({id:e,at:Date.now()}));else{var t=JSON.parse(sessionStorage.getItem("bp_openid")||"null");t&&t.id&&Date.now()-(t.at||0)<6e5?e=t.id:sessionStorage.removeItem("bp_openid")}}catch(e){}e&&document.documentElement.classList.add("standalone-detail")}();

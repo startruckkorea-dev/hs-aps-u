@@ -1,0 +1,1 @@
+!function(){try{var e=new URLSearchParams(location.search),t=!!e.get("id")&&!e.get("openId");if(!t&&!e.get("openId")){var a=JSON.parse(sessionStorage.getItem("accv_deeplink")||"null");t=!!(a&&a.id&&Date.now()-(a.at||0)<6e5)}t&&document.documentElement.classList.add("deeplink-open")}catch(e){}}();
