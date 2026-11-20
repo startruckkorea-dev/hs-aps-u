@@ -1,0 +1,1 @@
+window.APS_GATE_CFG={key:"BT",name:"Business Travel",admin:["BT"]};
